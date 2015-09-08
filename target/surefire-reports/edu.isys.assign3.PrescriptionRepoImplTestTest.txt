@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: edu.isys.assign3.PrescriptionRepoImplTestTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.764 sec <<< FAILURE!
+edu.isys.assign3.PrescriptionRepoImplTestTest.testTestPut()  Time elapsed: 0.51 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at edu.isys.assign3.PrescriptionRepoImplTestTest.testTestPut(PrescriptionRepoImplTestTest.java:44)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:372)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:360)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 19 more
+

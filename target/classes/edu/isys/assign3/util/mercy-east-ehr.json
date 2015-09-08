@@ -1,0 +1,85 @@
+[
+  {
+    "mercyId": "E000000011",
+    "name": "Rex Rubin",
+    "gender": "Male",
+    "insurance": "Blue Cross Blue Shield",
+    "groupId": "981239888",
+    "clinic": "Mercy East",
+    "visits": [
+      {
+        "id": 10,
+        "date": "Jun 27, 2014 6:07:07 PM",
+        "doctor": "Joe White",
+        "diagnosis": "Chicken Pox",
+        "notes": ""
+      },
+      {
+        "id": 11,
+        "date": "Jun 26, 2014 6:07:07 PM",
+        "doctor": "Lupe Gomez",
+        "diagnosis": "Sore Throat",
+        "notes": ""
+      },
+      {
+        "id": 12,
+        "date": "Dec 20, 2014 6:07:07 PM",
+        "doctor": "Joe White",
+        "diagnosis": "Measles",
+        "notes": ""
+      },
+      {
+        "id": 13,
+        "date": "Apr 19, 2013 6:07:07 PM",
+        "doctor": "Jared Dixon",
+        "diagnosis": "Chicken Pox",
+        "notes": ""
+      },
+      {
+        "id": 14,
+        "date": "Aug 24, 2013 6:07:07 PM",
+        "doctor": "John Smith",
+        "diagnosis": "Sore Throat",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "mercyId": "E000000019",
+    "name": "Sam Smiley",
+    "gender": "Male",
+    "insurance": "Blue Cross Blue Shield",
+    "groupId": "765234000",
+    "clinic": "Mercy East",
+    "visits": [
+      {
+        "id": 10,
+        "date": "Mar 13, 2013 6:07:07 PM",
+        "doctor": "Joe White",
+        "diagnosis": "Chicken Pox",
+        "notes": ""
+      },
+      {
+        "id": 11,
+        "date": "Dec 11, 2014 6:07:07 PM",
+        "doctor": "Julie Azevedo",
+        "diagnosis": "Measles",
+        "notes": ""
+      },
+      {
+        "id": 12,
+        "date": "Oct 4, 2014 6:07:07 PM",
+        "doctor": "John Smith",
+        "diagnosis": "Chicken Pox",
+        "notes": ""
+      },
+      {
+        "id": 13,
+        "date": "Jul 5, 2013 6:07:07 PM",
+        "doctor": "Julie Azevedo",
+        "diagnosis": "Measles",
+        "notes": ""
+      }
+    ]
+  }
+]
